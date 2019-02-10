@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Storybooks Liberia</title>
+    <description>Storybooks Liberia is designed specifically for teachers, parents, and community members and makes 40 stories from the African Storybook available with text and audio in English and French, as well as the most widely spoken languages of Liberia.
+</description>
+    <link>https://global-asp.github.io//storybooks-liberia/</link>
+    <atom:link href="https://global-asp.github.io//storybooks-liberia/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 10 Feb 2019 03:47:13 -0800</pubDate>
+    <lastBuildDate>Sun, 10 Feb 2019 03:47:13 -0800</lastBuildDate>
+    <generator>Jekyll v2.5.3</generator>
+    
+  </channel>
+</rss>
